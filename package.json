@@ -1,0 +1,25 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "kavya": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavyamamilla18/Mern.git"
+  },
+  "author": "kavya mamilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavyamamilla18/Mern/issues"
+  },
+  "homepage": "https://github.com/kavyamamilla18/Mern#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+  }
+}
